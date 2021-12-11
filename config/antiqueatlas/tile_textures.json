@@ -1,6 +1,9 @@
 {
   "version": 1,
   "data": {
+    "endIsland": "END_ISLAND",
+    "endIslandPlants": "END_ISLAND_PLANTS",
+    "endVoid": "END_VOID",
     "lava": "LAVA",
     "lavaShore": "LAVA_SHORE",
     "netherBridge": "NETHER_BRIDGE",
@@ -24,6 +27,7 @@
     "npcVillageSmallHouse": "HOUSE_SMALL",
     "npcVillageSmithy": "SMITHY",
     "npcVillageTorch": "VILLAGE_TORCH",
-    "npcVillageWell": "WELL"
+    "npcVillageWell": "WELL",
+    "ravine": "RAVINE"
   }
 }
