@@ -1,6 +1,9 @@
 {
   "version": 1,
   "data": {
+    "endIsland": -26,
+    "endIslandPlants": -27,
+    "endVoid": -28,
     "lava": -13,
     "lavaShore": -14,
     "netherBridge": -15,
@@ -24,6 +27,7 @@
     "npcVillageSmallHouse": -10,
     "npcVillageSmithy": -3,
     "npcVillageTorch": -8,
-    "npcVillageWell": -7
+    "npcVillageWell": -7,
+    "ravine": -29
   }
 }

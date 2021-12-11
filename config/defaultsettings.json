@@ -7,13 +7,13 @@
     "antiqueatlas",
     "AppleCore.cfg",
     "Backpack.cfg",
+    "betterfps.json",
     "BiblioCraft.cfg",
     "biomesoplenty",
     "CarpentersBlocks.cfg",
     "chisel.cfg",
     "CodeChickenCore.cfg",
     "dendrology.cfg",
-    "dsurround",
     "EasyCrafting.cfg",
     "eplus.cfg",
     "extrabiomes.cfg",
@@ -26,16 +26,14 @@
     "harvestcraft.cfg",
     "HopperDuctMod.cfg",
     "HungerOverhaul",
-    "localconfig-example.txt",
-    "localconfig.txt",
-    "NEI",
+    "litwr.cfg",
+    "plantmegapack",
     "RedstonePasteMod.cfg",
     "splash.properties",
     "StorageDrawers.cfg",
-    "UndergroundBiomes.cfg",
-    "UniDict.cfg"
+    "UndergroundBiomes.cfg"
   ],
   "hashes": {},
   "mainProfile": "Default",
-  "initially_created": "10.12.2021 11:47:38"
+  "initially_created": "10.12.2021 14:13:42"
 }
