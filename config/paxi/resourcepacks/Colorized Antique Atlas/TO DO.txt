@@ -1,0 +1,4 @@
+ToDo List :
+
+- Rework the textures so they are a bit better
+- Make the textures a bit more "faithful"
