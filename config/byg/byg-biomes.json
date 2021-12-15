@@ -946,19 +946,6 @@
         "OVERWORLD"
       ]
     },
-    "byg:bayou": {
-      "hills": [],
-      "beach": "byg:bayou",
-      "river": "byg:bayou",
-      "climate": "WARM",
-      "weight": 5,
-      "dictionary": [
-        "SWAMP",
-        "FOREST",
-        "WET",
-        "OVERWORLD"
-      ]
-    },
     "byg:rose_fields": {
       "hills": [
         {
