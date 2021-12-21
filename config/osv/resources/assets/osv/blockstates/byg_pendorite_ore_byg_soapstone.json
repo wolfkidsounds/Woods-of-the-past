@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/byg/byg_pendorite_ore_soapstone"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/byg/dense_byg_pendorite_ore_soapstone"
+    }
+  }
+}
