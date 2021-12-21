@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/byg/gold_ore_soapstone"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/byg/dense_gold_ore_soapstone"
+    }
+  }
+}

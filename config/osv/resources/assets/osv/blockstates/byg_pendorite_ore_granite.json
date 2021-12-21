@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/minecraft/byg_pendorite_ore_granite"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/minecraft/dense_byg_pendorite_ore_granite"
+    }
+  }
+}

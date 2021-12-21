@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/byg/emerald_ore_scoria_stone"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/byg/dense_emerald_ore_scoria_stone"
+    }
+  }
+}

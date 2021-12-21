@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/byg/redstone_ore_scoria_stone"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/byg/dense_redstone_ore_scoria_stone"
+    }
+  }
+}

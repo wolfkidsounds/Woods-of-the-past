@@ -1,0 +1,18 @@
+{
+  "loader": "forge:multi-layer",
+  "parent": "block/block",
+  "textures": {
+    "particle": "byg:block/rocky_stone"
+  },
+  "layers": {
+    "solid": {
+      "parent": "byg:block/rocky_stone"
+    },
+    "translucent": {
+      "parent": "osv:block/overlay",
+      "textures": {
+        "overlay": "osv:block/minecraft/emerald_ore_overlay_shaded"
+      }
+    }
+  }
+}
