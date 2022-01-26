@@ -14,11 +14,10 @@ The pack currently holds:
 
 **Forge 1.16.5 - Replacement List**
 
-- Ancient Trees: -&gt; Tan's Huge Trees
 - Animals Plus: -&gt; Alex Mobs
 - AppleCore -&gt; AppleSkin
 - AutoSapling -&gt; Auto Planting Forests
-- Backpack -&gt; Backpacked (+ Backpacker) [Feels much more vanilla friendly]
+- Backpack -&gt; Sophisticated Backpacks
 - Bibliocraft & BiblioWoods -&gt; Macaws Mods, MrCrayfish Furnuture Mod, EmbellishCraft
 - BiomesOPlenty -&gt; New Version
 - Carpenters Blocks -&gt; Framed Blocks
@@ -35,13 +34,14 @@ The pack currently holds:
 - Ruins -&gt; Repurposed Structures & Valhesia Structures
 - SimpleRefinement -&gt; Tetra [not so simple but huge "tech-tree" and lots of customization-options and feels vanilla-frienldy]
 - VeganOption -&gt; The Veggie Way
+- Plant Mega Pack - WKS - Wild Plants 2 (partly replaced some stuff minimalisticly)
 
 **Unreplaced Mods**
 
+- Ancient Trees
 - Farseek & Streams
 - Garden Stuff
 - HungerOverhaul
-- Plant Mega Pack
 - UndergroundBiomesConstructs
 
 *If you know any good replacements for these mods please let me kow*
@@ -69,6 +69,7 @@ The pack currently holds:
 - Better Dungeons
 - Better Mineshafts
 - Better Stronghold
+- Subterranian Wilderness
 
 **Quality of Life**
 
@@ -83,17 +84,18 @@ The pack currently holds:
 - Mouse Tweaks
 - Swing Through Grass
 - Toast Control
+- Chalk
+- LootR (for Servers)
 
-**Nice Improvements**
+**Visual and Sound Improvements**
 
 - Better Biome Blend
-- BetterFoliage
 - Diagonal Fences
-- Dynamic Sorroundings
 - Cosmetic Armor
 - Better Advancements
 - Kleeslabs
-- Presence Footsteps
+- Immersive FX
+- Magnesium Dynamic Lights
 
 **Performance**
 
@@ -103,3 +105,6 @@ The pack currently holds:
 - Fast Workbench
 - Fast Furnace
 - Ferrite Core
+- Magnesium
+- Magnesium Extras
+- Roadrunner
