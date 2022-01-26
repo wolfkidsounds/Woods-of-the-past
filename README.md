@@ -119,6 +119,7 @@ Also check out my other projects:
 - [The Universe Modpack](https://www.curseforge.com/minecraft/modpacks/universe-modpack)
 - [WOLFPACK 5](https://www.curseforge.com/minecraft/modpacks/wolfpack-5)
 - [WOLFPACK 6](https://www.curseforge.com/minecraft/modpacks/wolfpack-6)
+- [Woods Of The Past](https://www.curseforge.com/minecraft/modpacks/woods-of-the-past)
 - [WKS - Widlplants 2](https://www.curseforge.com/minecraft/mc-mods/wks-wildplants)
 
 
