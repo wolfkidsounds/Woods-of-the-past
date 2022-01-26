@@ -108,3 +108,18 @@ The pack currently holds:
 - Magnesium
 - Magnesium Extras
 - Roadrunner
+
+
+---
+
+Also check out my other projects:
+
+- [Beneath The Trees](https://www.curseforge.com/minecraft/modpacks/beneath-the-trees)
+- [Avatar Journeys](https://www.curseforge.com/minecraft/modpacks/avatar-journeys)
+- [The Universe Modpack](https://www.curseforge.com/minecraft/modpacks/universe-modpack)
+- [WOLFPACK 5](https://www.curseforge.com/minecraft/modpacks/wolfpack-5)
+- [WOLFPACK 6](https://www.curseforge.com/minecraft/modpacks/wolfpack-6)
+- [WKS - Widlplants 2](https://www.curseforge.com/minecraft/mc-mods/wks-wildplants)
+
+
+[Support on Discord](https://discord.gg/gHcHGuDY)
