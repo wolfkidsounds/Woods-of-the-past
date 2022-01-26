@@ -57,6 +57,8 @@
 		["World Generation"."Ore Generation"."Deepslate Settings"]
 			#Determines the weight of spawning for Deepslate.
 			DeepslateSpawnWeight = 2
+			#Determines if Deepslate Ores should generate underground.
+			GenerateDeepslateOres = true
 			#Determines if Deepslate Blobs should generate underground.
 			GenerateDeepslate = true
 
