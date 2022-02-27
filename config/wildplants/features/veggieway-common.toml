@@ -8,38 +8,38 @@
 #Generic Types: [MESA, FOREST, PLAINS, MOUNTAIN, HILLS, SWAMP, SANDY, SNOWY, WASTELAND, BEACH, VOID] 
 #Use: [OVERWORLD] to generate in all biomes
 ["WILD CORN"]
-	"Enabled:" = true
-	#Default: [SAVANNA]
-	"Biome Type:" = "SAVANNA"
 	#Default [1]
 	"Frequency:" = 1
+	"Enabled:" = true
 	#Default [1]
 	"Patch Size:" = 1
+	#Default: [SAVANNA]
+	"Biome Type:" = "SAVANNA"
 
 ["WILD LENTIL"]
+	#Default [1]
+	"Patch Size: " = 1
+	#Default [1]
+	"Frequency: " = 1
 	"Enabled:" = true
 	#Default: [MESA]
 	"Biome Type:" = "MESA"
-	#Default [1]
-	"Frequency: " = 1
-	#Default [1]
-	"Patch Size: " = 1
 
 ["WILD QUINOA"]
+	#Default [1]
+	"Frequency:" = 1
 	"Enabled:" = true
+	#Default [1]
+	"Patch Size:" = 1
 	#Default: [COLD]
 	"Biome Type:" = "COLD"
-	#Default [1]
-	"Frequency:" = 1
-	#Default [1]
-	"Patch Size:" = 1
 
 ["WILD SOYBEAN"]
-	"Enabled:" = true
-	#Default: [WATER]
-	"Biome Type:" = "WATER"
 	#Default [1]
 	"Frequency:" = 1
+	"Enabled:" = true
 	#Default [1]
 	"Patch Size:" = 1
+	#Default: [WATER]
+	"Biome Type:" = "WATER"
 

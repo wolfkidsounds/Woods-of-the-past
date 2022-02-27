@@ -8,38 +8,38 @@
 #Generic Types: [MESA, FOREST, PLAINS, MOUNTAIN, HILLS, SWAMP, SANDY, SNOWY, WASTELAND, BEACH, VOID] 
 #Use: [OVERWORLD] to generate in all biomes
 ["MINECRAFT_WILD WHEAT"]
+	#Default [1]
+	"Frequency:" = 1
 	"Enabled:" = true
+	#Default [1]
+	"Patch Size:" = 1
 	#Default: [SAVANNA]
 	"Biome Type:" = "SAVANNA"
-	#Default [1]
-	"Frequency:" = 1
-	#Default [1]
-	"Patch Size:" = 1
 
 ["MINECRAFT_WILD CARROTS"]
-	"Enabled:" = true
-	#Default: [PLAINS]
-	"Biome Type:" = "PLAINS"
-	#Default [1]
-	"Frequency: " = 1
 	#Default [1]
 	"Patch Size: " = 1
+	#Default [1]
+	"Frequency: " = 1
+	"Enabled:" = true
+	#Default: [PLAINS]
+	"Biome Type:" = "PLAINS"
 
 ["MINECRAFT_WILD POTATOES"]
-	"Enabled:" = true
-	#Default: [PLAINS]
-	"Biome Type:" = "PLAINS"
 	#Default [1]
 	"Frequency:" = 1
+	"Enabled:" = true
 	#Default [1]
 	"Patch Size:" = 1
+	#Default: [PLAINS]
+	"Biome Type:" = "PLAINS"
 
 ["MINECRAFT_WILD BEETROOTS"]
-	"Enabled:" = true
-	#Default: [PLAINS]
-	"Biome Type:" = "PLAINS"
 	#Default [1]
 	"Frequency:" = 1
+	"Enabled:" = true
 	#Default [1]
 	"Patch Size:" = 1
+	#Default: [PLAINS]
+	"Biome Type:" = "PLAINS"
 

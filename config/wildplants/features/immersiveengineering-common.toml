@@ -8,11 +8,11 @@
 #Generic Types: [MESA, FOREST, PLAINS, MOUNTAIN, HILLS, SWAMP, SANDY, SNOWY, WASTELAND, BEACH, VOID] 
 #Use: [OVERWORLD] to generate in all biomes
 ["WILD HEMP"]
-	"Enabled:" = true
-	#Default: [OVERWORLD]
-	"Biome Type:" = "OVERWORLD"
 	#Default [1]
 	"Frequency:" = 1
+	"Enabled:" = true
 	#Default [1]
 	"Patch Size:" = 1
+	#Default: [OVERWORLD]
+	"Biome Type:" = "OVERWORLD"
 
