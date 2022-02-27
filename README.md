@@ -7,12 +7,13 @@ Is a recreation of the "Life In The Woods" and "Life In The Woods: Renaissance" 
 The pack currently holds: 
 
 - a re-creation of the original 1.7.10 version [which is not updated any further]
-- a port to 1.12.2 [which is not updated any further]
-- a port & re-creation to 1.16.5 [which is still in active development]
+- a port & re-creation to 1.12.2 [which is not updated any further]
+- a port & re-creation to 1.16.5 [which is not updated any further]
+- a port & re-creation to 1.18.1 [which is still in active development]
 
 ---
 
-**Forge 1.16.5 - Replacement List**
+**Forge 1.18.1 - Replacement List**
 
 - Animals Plus: -&gt; Alex Mobs
 - AppleCore -&gt; AppleSkin
