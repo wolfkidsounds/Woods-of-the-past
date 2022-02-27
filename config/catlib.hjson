@@ -7,5 +7,9 @@
     errorLevel: ERROR
     # Whether to wrap text on the error detail page. Hit W or space to toggle in game.
     wrapText: true
+    # How many lines for the display command to render in the chat before opening a
+    # dedicated screen. Set this to 0 to always open a screen.
+    # Range: 0 ~ 100
+    displayLength: 35
   }
 }
