@@ -25,10 +25,9 @@ The pack currently holds:
 - Chisel2 -&gt; ReChiseled
 - Easy Crafting -&gt; Simple Storage Network [much more advanced, feels useful for so many items]
 - Enchanting Plus -&gt; Enchanting Infuser
-- ExtraBiomesXL -&gt; Oh The Biomes You'll Go & BYG+
+- ExtraBiomesXL -&gt; Oh The Biomes You'll Go
 - ExtraButtons -&gt; Gauges and Switches
 - GraveStones -&gt; GraveStoneMod
-- HopperDucts -&gt; Ducts
 - Not Enough Items -&gt; Just Enough Items
 - Pams HarvestCraft -&gt; Harvest, Farmers Delight, Corn Delight
 - Redstone Paste -&gt; Redstone Pen
@@ -44,6 +43,7 @@ The pack currently holds:
 - Ancient Trees
 - Farseek & Streams
 - HungerOverhaul
+- HopperDucts
 
 *If you know any good replacements for these mods please let me kow*
 
@@ -123,6 +123,7 @@ Also check out my other projects:
 - [The Universe Modpack](https://www.curseforge.com/minecraft/modpacks/universe-modpack)
 - [WOLFPACK 5](https://www.curseforge.com/minecraft/modpacks/wolfpack-5)
 - [WOLFPACK 6](https://www.curseforge.com/minecraft/modpacks/wolfpack-6)
+- [WOLFPACK 7](https://www.curseforge.com/minecraft/modpacks/wolfpack-7)
 - [Woods Of The Past](https://www.curseforge.com/minecraft/modpacks/woods-of-the-past)
 - [WKS - Widlplants 2](https://www.curseforge.com/minecraft/mc-mods/wks-wildplants)
 
