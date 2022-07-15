@@ -7,43 +7,44 @@ Is a recreation of the "Life In The Woods" and "Life In The Woods: Renaissance" 
 The pack currently holds: 
 
 - a re-creation of the original 1.7.10 version [which is not updated any further]
-- a port & re-creation to 1.12.2 [which is not updated any further]
-- a port & re-creation to 1.16.5 [which is not updated any further]
-- a port & re-creation to 1.18.1 [which is still in active development]
+- a port & re-creation to 1.12 [which is not updated any further]
+- a port & re-creation to 1.16 [which is not updated any further]
+- a port & re-creation to 1.18 [which is not updated any further]
+- a port & re-creation to 1.19 [which is still in active development]
 
 ---
 
-**Forge 1.18.1 - Replacement List**
+**Forge 1.19 - Replacement List**
 
-- Animals Plus: -&gt; Alex Mobs
-- AppleCore -&gt; AppleSkin
-- AutoSapling -&gt; Auto Planting Forests
-- Backpack -&gt; Backpacked
-- Bibliocraft & BiblioWoods -&gt; Macaws Mods, MrCrayfish Furnuture Mod, EmbellishCraft
-- BiomesOPlenty -&gt; New Version
-- Carpenters Blocks -&gt; Framed Blocks
-- Chisel2 -&gt; ReChiseled
-- Easy Crafting -&gt; Simple Storage Network [much more advanced, feels useful for so many items]
-- Enchanting Plus -&gt; Enchanting Infuser
-- ExtraBiomesXL -&gt; Oh The Biomes You'll Go
-- ExtraButtons -&gt; Gauges and Switches
-- GraveStones -&gt; GraveStoneMod
-- Not Enough Items -&gt; Just Enough Items
-- Pams HarvestCraft -&gt; Harvest, Farmers Delight, Corn Delight
-- Redstone Paste -&gt; Redstone Pen
-- Ruins -&gt; Repurposed Structures, Valhesia Structures, Shrines Structures
-- SimpleRefinement -&gt; Tetra [not so simple but huge "tech-tree" and lots of customization-options and feels vanilla-frienldy]
-- VeganOption -&gt; The Veggie Way
-- Plant Mega Pack - WKS - Wild Plants 2 (partly replaced some stuff minimalisticly)
-- Garden Stuff - Decorative Winter, Dustrial Decor, Decorative Blocks
-- UndergroundBiomesConstructs - More Ore Stones
+- Animals Plus: - Alex Mobs
+- AppleCore -Apple Skin
+- AutoSapling -Auto Planting Forests
+- Backpack -Backpacked
+- Bibliocraft & BiblioWoods -Macaws Mods
+- BiomesOPlenty -New Version
+- Carpenters Blocks -Framed Blocks
+- Chisel2 - Re-chiseled
+- Easy Crafting -Simple Storage Network [much more advanced, feels useful for so many items]
+- ExtraBiomesXL -Oh The Biomes You'll Go
+- GraveStones -GraveStoneMod
+- Not Enough Items -Just Enough Items
+- Redstone Paste -Redstone Pen
+- Ruins -Repurposed Structures, Additional Structures, Shrines Structures
+- VeganOption -The Veggie Way
+- HopperDucts - Ducts
 
 **Unreplaced Mods**
 
 - Ancient Trees
 - Farseek & Streams
 - HungerOverhaul
-- HopperDucts
+- Enchanting Plus
+- ExtraButtons
+- Pams HarvestCraft
+- SimpleRefinement
+- Plant Mega Pack
+- Garden Stuff
+- UndergroundBiomesConstructs
 
 *If you know any good replacements for these mods please let me kow*
 
@@ -52,28 +53,15 @@ The pack currently holds:
 **Additions**
 
 - Exotic Birds
-- Aquaculture 2
 - Aweseome Dungeon
 - Awesome Dungeon (Ocean Edition)
 - Awesome Dungeon (Nether Edition)
 - Awesome Dungeon (End Edition)
-- When Dungeons Arise
-- Better Dungeons
 - Comforts
-- Bamboo Storage
+- Bamboo Everything
 - Earth Mobs
-- Spice Of LIfe: Carrot Edition
-- Better Mineshafts
-- Yungs Extras
-- Yungs Bridges
 - Storage Drawers
-- Framed Storage Drawers
-- Enchantment Lore
-- Patina Pipeworks
-- Builders Delight
-- Garden Arsenal
-- Ambers Underground
-- Chalk
+- Framed Compacting Drawers
 - Smarter Farmers
 
 **Quality of Life**
@@ -85,12 +73,11 @@ The pack currently holds:
 - Default Options
 - FPS Reducer
 - Jade
-- Jade Additions
-- Just Enough Resources
 - Just Enough Professions
 - Just Enough Effect Descriptions
 - Mouse Tweaks
 - Clean Cut
+- CLean View
 - LootR (for Servers)
 
 **Visual and Sound Improvements**
@@ -102,7 +89,6 @@ The pack currently holds:
 - Ambient Sounds 5
 - Ambient Environment
 - Eating Animations
-- Effective
 - Fast Leaf Decay
 
 **Performance**
@@ -111,7 +97,6 @@ The pack currently holds:
 - Better FPS Render Distance
 - Clumps
 - Fast Suite
-- Ferrite Core
 - Distant Horizons
 
 ---
